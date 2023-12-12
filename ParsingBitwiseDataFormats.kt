@@ -1,3 +1,5 @@
+import kotlin.experimental.and
+
 data class SensorData (
   val sequenceNo: UByte,
   val temperature: Byte,
